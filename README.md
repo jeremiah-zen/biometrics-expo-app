@@ -2,7 +2,8 @@
 This is testing biometrics feature using expo cli
 
 # local setup
-- clone
+- git clone
+- npm install --global expo-cli (for setting up expo locally)
 - npm install
 - expo start (to start app using qr code)
 
