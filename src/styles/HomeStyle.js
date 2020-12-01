@@ -5,6 +5,12 @@ const HomeStyle = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center'
+    },
+    button: {
+        padding: '3.4%',
+        borderWidth: 2,
+        borderColor: '#cccccc',
+        borderRadius: 5
     }
 });
 
